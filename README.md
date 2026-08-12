@@ -244,11 +244,7 @@ O portfólio está em constante evolução conforme novos conceitos são estudad
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigo-cesar23/rodrigo-cesar23/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigo-cesar23/rodrigo-cesar23/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rodrigo-cesar23/rodrigo-cesar23/output/github-snake.svg">
-</picture>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=rodrigo-cesar23&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak"> </div>
 
 </div>
 
